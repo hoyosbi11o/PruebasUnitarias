@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoyosbi11o/PruebasUnitarias.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoyosbi11o/PruebasUnitarias/issues"
+  },
+  "homepage": "https://github.com/hoyosbi11o/PruebasUnitarias#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "package-lock": "^1.0.5"
+  }
+}
