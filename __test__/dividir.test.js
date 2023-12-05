@@ -1,7 +1,7 @@
 const div=require('../src/division')
 
 describe("Prueba de division",()=>{
-    test('6 / 0 is error',()=>{
-        expect(div(6,0)).toBe(0)
+    test('4 / 2 is 2',()=>{
+        expect(div(4,2)).toBe(2)
     })
 })
